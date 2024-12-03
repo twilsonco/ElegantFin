@@ -73,7 +73,7 @@ html {
 }
 
 .cardOverlayContainer>.cardOverlayFab-primary {
-    display: none;
+    display: block;
 }
 
 
